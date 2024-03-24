@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbserial-3",
+    "sketch": "code_P1.ino"
+}
